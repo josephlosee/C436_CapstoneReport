@@ -1,0 +1,6 @@
+Deliverables Evidence to Generate:
+-Program flowchart image:
+https://www.lucidchart.com/documents/edit/3e523382-db8c-457b-af6d-bc053254b0d3#
+-Snippet of program code for ETL and Visualization
+-DB ERD
+-Screenshot of visualization
